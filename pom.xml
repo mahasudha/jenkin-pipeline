@@ -68,5 +68,6 @@
         </executions>
       </plugin>
     </plugins>
+    <finalName>devops-intigration</finalName>
   </build>
 </project>
